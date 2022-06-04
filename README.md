@@ -1,10 +1,9 @@
 # project_6_couter_bloc
 
-import package flutter_bloc
-import package equatable
-Picture file name Example Screenshot_Project
+import package flutter_bloc,equatable
 
-A new Flutter project.
+
+Picture file name Example Screenshot_Project
 
 ## Getting Started
 

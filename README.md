@@ -1,4 +1,8 @@
-# couter_bloc
+# project_6_couter_bloc
+
+import package flutter_bloc
+import package equatable
+Picture file name Example Screenshot_Project
 
 A new Flutter project.
 
